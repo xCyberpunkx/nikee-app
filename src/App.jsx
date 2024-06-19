@@ -1,5 +1,6 @@
 import React from 'react';
-import { Hero,PopularProduct,HighQuality,Services,SpecialOffers,Subscribe,Footer,CustomerReviews,Nav } from './sections';
+import { Hero,PopularProduct,HighQuality,Services,SpecialOffers,Subscribe,Footer,CustomerReviews } from './sections';
+import Nav from './components/Nav'
 const App = () => {
   return (
     <>
