@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
    <main>
-    <Nav/>
+    <Nav/> todo
     <section className='relative xl:padding-1 wide:padding-r padding-b'>
       <Hero />
     </section>
